@@ -3,7 +3,9 @@ layout: null
 title: 8:00 PM - 9:30 PM PST
 ---
 
-All Dates and Times
+<div style="text-align: center;"><img src="{{ 'img/secretofthetrees.jpeg' | absolute_url }}"></div>
+<br>
+<h4>All Dates and Times</h4>
 
 The Secrets of the Trees by Caitlyn Kilgore, featuring Stephanie Chen, Bobbi Dulaney, Carrie Gaydos, and Mel Mark
 
@@ -11,7 +13,9 @@ Inspired by the book The Hidden Life of Trees by Peter Wohleben, this piece blos
 
 Friday March 6th 8pm
 
-Terra Femme by A. Spearman &Co.
+<div style="text-align: center;"><img src="{{ 'img/terrafemme.jpeg' | absolute_url }}"></div>
+<br>
+<h4>Terra Femme by A. Spearman &Co.</h4>
 
 AspearmanAndCo.org
 
