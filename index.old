@@ -6,6 +6,7 @@ layout: home
 ---
 
 <link rel="stylesheet" href="css/theme3.css"/>
+<link rel="stylesheet" href="css/overlay.css"/>
 <script src="js/jquery.min.js"></script>
 
 <img src="img/logo.jpg">
@@ -19,3 +20,17 @@ Other shows sharing the stage with The Secrets of the Trees vary from musicals t
 
 Tickets and more info: dancemissiontheater.org/2020/02/06/march-4-15-humanature/
 
+<div id="overlay">
+  <iframe id="text">Overlay Text</iframe>
+</div>
+<div id="caleandar"></div>
+
+
+<script type="text/javascript" src="js/overlay.js"></script>
+<script type="text/javascript" src="js/caleandar.js"></script>
+<script type="text/javascript" src="js/humanature.js"></script>
+<script>
+$('#overlay').click(function(){
+  off();
+});
+</script>
