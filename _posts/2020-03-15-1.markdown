@@ -1,6 +1,6 @@
 ---
 layout: null
-title: 8:00PM - 9:30PM
+title: Sun, Mar 15, 7PM
 date: 2020-03-15 20:00:00 -07:00
 ---
 <div style="text-align: center;"><img src="{{ 'img/secretofthetrees.jpeg' | absolute_url }}"></div>

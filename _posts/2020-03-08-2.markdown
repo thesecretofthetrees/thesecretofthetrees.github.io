@@ -1,5 +1,5 @@
 ---
 layout: null
-title: 4:00 PM - 5:30 PM
+title: Sun, Mar 8, 4PM
 date: 2020-03-08 16:00:00 -07:00
 ---

@@ -1,5 +1,5 @@
 ---
 layout: null
-title: 8:00PM - 9:30PM
+title: Sat, Mar 14, 8PM
 date: 2020-03-14 20:00:00 -07:00
 ---
