@@ -1,5 +1,8 @@
 ---
-layout: null
+layout: home
 title: Thu, Mar 12, 8PM
 date: 2020-03-12 20:00:00 -07:00
 ---
+{% include upwelling.html %}
+
+{% include treesecrets.html %}

@@ -5,9 +5,6 @@
 layout: home
 ---
 
-<link rel="stylesheet" href="css/theme3.css"/>
-<script src="js/jquery.min.js"></script>
-
 <img src="img/logo.jpg">
 Huma(N)ature is a dance, theater, and circus production investigating humanity’s relationship to nature - our misguided dominion over it, our inordinate influence upon it, our continued reliance on its systems, and our place within it.  Showcasing a variety of artists and shows, Huma(N)ature will be a different experience nearly every night.  
 

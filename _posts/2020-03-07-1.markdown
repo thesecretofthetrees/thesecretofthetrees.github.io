@@ -1,24 +1,8 @@
 ---
-layout: null
+layout: home
 title: Sat, Mar 7, 8PM
 date: 2020-03-07 20:00:00 -08:00
 ---
-<div style="text-align: center;"><img src="{{ 'img/secretofthetrees.jpeg' | absolute_url }}"></div>
-<br>
-<h4>All Dates and Times</h4>
+{% include sirensong.html %}
 
-The Secrets of the Trees by Caitlyn Kilgore, featuring Stephanie Chen, Bobbi Dulaney, Carrie Gaydos, and Mel Mark
-
-Inspired by the book The Hidden Life of Trees by Peter Wohleben, this piece blossomed into an affirmation of our interdependence. Drawing inspiration from Standing Rock and other political actions, and books like Blessed Unrest and Radical Ecology, the performers have woven together a story of struggle and hope in a harrowing time. Touching on themes of socialism, competition, set-back, and rebirth, The Secrets of the Trees is a circus, dance, and theatrical critique of capitalism and greed told through the eyes of the forest as they struggle for survival in the Anthropocene.
-
-<div style="text-align: center;"><img src="{{ 'img/sirensong.jpeg' | absolute_url }}"></div>
-<br>
-<h4>Saturday March 7th 8p
-
-Siren's Last Song by Ebb/Flow Collective</h4>
-
-The Ocean herself brings an oil-slicked message with the tide.
-
-Rainbow plastics fill the siren’s tail as he swims a somber finale, alone in a foreign place he once called home.
-
-The siren’s last song, a distant memory –the Ocean embraces him as he drifts into eternal sleep.
+{% include treesecrets.html %}

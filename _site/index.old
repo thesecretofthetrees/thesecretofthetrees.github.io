@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="/assets/css/style.css?v=b11a6d91bec6ebe7369f642dc23e5b351166a105">
+  </head>
+  <body>
+    <main id="content" class="main-content" role="main">
+      <script src="http://localhost:4000/js/jquery.min.js"></script>
+<link rel="stylesheet" href="http://localhost:4000/css/index.css"/>
+<!-- <link rel="stylesheet" href="css/index.css"/> -->
+<div id="index">
+ <div class="header" id="dropdown">
+   <button>Showings</button>
+   <div class="dropdown-content">
+     
+       <a href="/2020/03/06/1.html">Fri, Mar 6, 8PM</a>
+     
+       <a href="/2020/03/07/1.html">Sat, Mar 7, 8PM</a>
+     
+       <a href="/2020/03/08/2.html">Sun, Mar 8, 4PM</a>
+     
+       <a href="/2020/03/12/1.html">Thu, Mar 12, 8PM</a>
+     
+       <a href="/2020/03/13/1.html">Fri, Mar 13, 8PM</a>
+     
+       <a href="/2020/03/14/1.html">Sat, Mar 14, 8PM</a>
+     
+       <a href="/2020/03/15/1.html">Sun, Mar 15, 7PM</a>
+     
+   </div>
+ </div>
+<!--
+  <a href="#" class="header">Link 2</a>
+  <a href="#" class="header">Link 3</a>
+-->
+
+</div>
+<link rel="stylesheet" href="css/theme3.css"/>
+<link rel="stylesheet" href="css/overlay.css"/>
+<script src="js/jquery.min.js"></script>
+
+<img src="img/logo.jpg">
+Huma(N)ature is a dance, theater, and circus production investigating humanity’s relationship to nature - our misguided dominion over it, our inordinate influence upon it, our continued reliance on its systems, and our place within it.  Showcasing a variety of artists and shows, Huma(N)ature will be a different experience nearly every night.  
+
+The throughline each night will be The Secrets of the Trees, a circus and dance show inspired by the book The Hidden Life of Trees by Peter Wohleben.  This theatrical critique of capitalism and greed is told through the trees as they struggle for survival in the Anthropocene*.  Originally performed in June 2018 at Athletic Playground in Emeryville, Caitlyn Kilgore and her cast have been excitedly updating this deeply affective, dazzling acrobatic display for its Dance Mission reboot.
+
+Other shows sharing the stage with The Secrets of the Trees vary from musicals to monologues to modern dance.  Created and performed by some of the Bay Area’s strongest activists and artist - including members of our local Extinction Rebellion (@XRSFBayArea) - each show will offer something unique, beautiful, and important for the times ahead.  Stay tuned for more info about each offering!
+
+*The current, scientifically proposed geologic epoch in which human activities constitute a major impact on all Earth’s ecological processes.
+
+Tickets and more info: dancemissiontheater.org/2020/02/06/march-4-15-humanature/
+
+<div id="overlay">
+  <iframe id="text">Overlay Text</iframe>
+</div>
+<div id="caleandar"></div>
+
+
+<script type="text/javascript" src="js/overlay.js"></script>
+<script type="text/javascript" src="js/caleandar.js"></script>
+<script type="text/javascript" src="js/humanature.js"></script>
+<script>
+$('#overlay').click(function(){
+  off();
+});
+</script>
+
+
+    </main>
+  </body>
+</html>
