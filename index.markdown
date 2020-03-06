@@ -30,7 +30,7 @@ We also encourage you to drop any additional donations into the box for these or
   <li>Plant some trees!</li>
   <li>Support some organizations, especially those that center indigenous and POC voices and experiences as those communities are often on the front lines of pollution and climate change - usually toxic facilities, refineries, and ports are put in areas with high populations of POC and low income families; often indigenous communities are working hard to keep forests and other wild places from being developed:
     <ul>
-      <li><a href="https://sogoreate-landtrust.com/"Sogorea Te Land Trust</a></li>
+      <li><a href="https://sogoreate-landtrust.com/">Sogorea Te Land Trust</a></li>
       <li><a href="http://www.idlenomoresfbay.org/">Idle No More SF Bay Area</a></li>
 <li>Sierra Club</li>
 <li>Arbor Day Foundation</li>
