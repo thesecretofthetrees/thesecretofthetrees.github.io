@@ -18,7 +18,7 @@ Tickets and more info: <a href="dancemissiontheater.org/2020/02/06/march-4-15-hu
 
 <hr />
 
-<h4>Proceeds from Huma(N)ature will go to Sogorea Te Land Trust and Idle No More SF Bay Area</h4
+<h4>Proceeds from Huma(N)ature will go to Sogorea Te Land Trust and Idle No More SF Bay Area</h4>
 We also encourage you to drop any additional donations into the box for these organizations found in the lobby.
 
 <b>Things You Can Do For the Trees:</b>
